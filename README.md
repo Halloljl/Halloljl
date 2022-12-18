@@ -8,7 +8,7 @@
 
 # 个人介绍：
 
-- <a href="blog.zaizhong.icu">myBlog</a>
+- <a href="https://blog.zaizhong.icu">myBlog</a>
 - 努力的后端开发者
 
 # Github status
